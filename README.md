@@ -1,2 +1,2 @@
-# game-launcher
+# Game launcher
 C# launcher for games
